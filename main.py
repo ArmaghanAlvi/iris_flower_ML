@@ -150,6 +150,6 @@ predictions = model.predict(X_validation) #uses our model to make predictions fo
 #Now that we had our model make its predictions, lets evaluate them
 print('\n\n\nEvaluating the model:')
 print("Accuracy score:", accuracy_score(Y_validation, predictions)) #calculates the percentage of correct predictions
-print("\nConfusion matrix:", confusion_matrix(Y_validation, predictions)) #Creates a table that compares actual to predicted (True (correct) and False (incorrect) positives and negatives)
+print("\nConfusion matrix:\n", confusion_matrix(Y_validation, predictions)) #Creates a table that compares actual to predicted (True (correct) and False (incorrect) positives and negatives)
 print("\nClassification report:\n", classification_report(Y_validation, predictions)) #generates report on model's performance
 
