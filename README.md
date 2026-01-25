@@ -31,6 +31,15 @@ The `final_model` file simply runs the most effective model that was determined 
 * sci-kit learn
 
 
+## Lessons Learned
+Considering the fact that the entire goal of this project was to learn, there is a lot that I learned from this simple ML program. I learned:
+* How to implement various libraries that are useful for ML, data science, etc.
+* How to load and read basic data from external files
+* How to examine and visually represent data on various plots like box and whisker, scatter, etc.
+* About k-fold cross examination; what it is, how it works, and how to implement it
+* Various different common ML classification algorithms
+* How to display and represent the findings of these algorithms
+
 
 ## Acknowledgements
 This project was made based on <a href="https://machinelearningmastery.com/machine-learning-in-python-step-by-step/">this</a> tutorial by Jason Brownlee.
