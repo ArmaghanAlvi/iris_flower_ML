@@ -6,7 +6,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary align="center">Table of Contents</summary>
   <ol>
     <li><a href="#project-overview">Project Overview</a></li>
   </ol>
