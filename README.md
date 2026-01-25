@@ -19,7 +19,7 @@ It uses the libraries of scipy, numpy, matplotlib, pandas, and sci-kit learn to 
 The final_model file simply runs the most effective model that was determined in the main file.
 
 # Built with
-[![Next][Next.js]][Next-url]
+
 
 
 
