@@ -9,6 +9,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#project-overview">Project Overview</a></li>
+    <li><a href="#lessons">Lessons</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -31,7 +32,7 @@ The `final_model` file simply runs the most effective model that was determined 
 * sci-kit learn
 
 
-## Lessons Learned
+## Lessons
 Considering the fact that the entire goal of this project was to learn, there is a lot that I learned from this simple ML program. I learned:
 * How to implement various libraries that are useful for ML, data science, etc.
 * How to load and read basic data from external files
