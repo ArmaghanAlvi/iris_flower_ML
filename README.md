@@ -20,6 +20,7 @@ The `final_model` file simply runs the most effective model that was determined 
 
 ### Built with
 Language used: Python  
+
 Libraries used:
 * scipy
 * numpy
