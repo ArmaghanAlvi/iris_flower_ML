@@ -31,8 +31,11 @@
 </details>
 
 
-## About
-
+## Project Overview
+The purpose of this project was to expose myself to basic machine learning concepts and other data manipulation functions in Python. 
+It uses the libraries of scipy, numpy, matplotlib, pandas, and sci-kit learn to load and examine data, then test various different ML classification algorithms, and finally 
+make some predictions based on the algorithm deemed most effective on this data set. For the evaluation of the algorithms, the program uses stratified 10-fold cross validation.
+The final_model file simply runs the most effective model that was determined in the main file.
 
 
 
