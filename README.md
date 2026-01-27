@@ -10,7 +10,6 @@
   <ol>
     <li><a href="#project-overview">Project Overview</a></li>
     <li><a href="#lessons">Lessons</a></li>
-    <li><a href="#built-with">Built With</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
