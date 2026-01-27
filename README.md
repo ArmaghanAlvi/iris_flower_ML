@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">Iris-Flower-Dataset-ML-Program</h1>
 </div>
-<p align="center">A simple program that manipulates the Iris Dataset to learn the most basic concepts of Machine Learning in Python.</p>
+<p align="center">A simple program that manipulates the Iris Dataset to learn the basic concepts of Machine Learning in Python.</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
